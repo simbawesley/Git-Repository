@@ -2,3 +2,5 @@ C:\Users\Sipha\Desktop\Modules\WRWS202\Practical\Week 2\GitTut\GitTut\bin\Debug\
 C:\Users\Sipha\Desktop\Modules\WRWS202\Practical\Week 2\GitTut\GitTut\bin\Debug\GitTut.pdb
 C:\Users\Sipha\Desktop\Modules\WRWS202\Practical\Week 2\GitTut\GitTut\obj\x86\Debug\GitTut.exe
 C:\Users\Sipha\Desktop\Modules\WRWS202\Practical\Week 2\GitTut\GitTut\obj\x86\Debug\GitTut.pdb
+C:\Users\Sipha\Documents\Git\Git-Repository\GitTut\obj\x86\Debug\GitTut.exe
+C:\Users\Sipha\Documents\Git\Git-Repository\GitTut\obj\x86\Debug\GitTut.pdb

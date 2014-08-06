@@ -18,7 +18,14 @@ namespace GitTut
             string surname = Console.ReadLine();
             Console.WriteLine();
             Console.WriteLine("Thank you {0} {1} and enjoy using this CVS",name,surname);
+
+            //The Edit to the file---------------
+            System.Console.WriteLine();
+            Console.Write("Enter Your age:");
+            int age = int.Parse(Console.ReadLine());
+            Console.WriteLine("Summary of details, Name:{0} Surname:{1} Age:{2}",name,surname,age);
             Console.ReadLine();
+            
         }
     }
 }
